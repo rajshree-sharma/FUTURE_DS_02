@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# FUTURE_DS_02
 
 📈 Social Media Campaign Performance Tracker
 This project is part of my Data Science & Analytics Internship at Future Interns, aimed at analyzing and visualizing marketing data from Facebook and Instagram ad campaigns. The dashboard evaluates campaign effectiveness through various KPIs such as CTR, ROI, CPC, CPM, and Engagement Rate.
