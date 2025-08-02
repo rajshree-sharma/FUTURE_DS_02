@@ -47,3 +47,7 @@ DAX formula writing and calculated measures
 Dashboard storytelling and interactivity in Power BI
 
 Insight generation from social media data
+
+
+<img width="1117" height="627" alt="image" src="https://github.com/user-attachments/assets/063cf738-4f62-4b99-9bd5-74cc0121f2df" />
+
